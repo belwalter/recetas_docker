@@ -1,5 +1,6 @@
 # recetas_docker
-projects
+projects:
+
   -react --> front react y back nodejs 
   
   -react-flask --> front react back flask

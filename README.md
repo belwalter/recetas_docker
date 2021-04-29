@@ -5,7 +5,7 @@ projects:
   
   -react-flask --> front react back flask
   
-  -api-flask --> fron react back flask
+  -api-flask --> fron and back flask
   
   -star_wars --> back nodejs
 
